@@ -439,12 +439,10 @@ in the Software without restriction...
 
 ## 👤 Author
 
-**Farah Raza**
-- Registration: 25BHI10027
+**mahi jain**
+- Registration: 25BCE10974
 - Subject: Fundamentals in AI/ML
-- Institution: [Your Institution Name]
-- Email: farah.raza@example.com
-- GitHub: [@farah-raza](https://github.com/farah-raza)
+- Institution: vit bhopal
 
 ---
 
